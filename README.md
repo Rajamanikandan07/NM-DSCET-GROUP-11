@@ -1,6 +1,6 @@
 # NM-DSCET-GROUP-11
-link of my project  https://github.com/Aravindan301/NM-DSCET-GROUP11/ 
-uplod SRS file 
+link of my project  
+uplod SRS file  https://github.com/Rajamanikandan07/NM-DSCET-GROUP-11/ 
 
 
 1. Introduction
